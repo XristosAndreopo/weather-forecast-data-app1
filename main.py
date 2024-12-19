@@ -29,7 +29,7 @@ if place:
         #Create a temperature plot
         if option == "Temperature":
             #get the temperatures only by get_data()
-            filtered_temp = [diction["main"]["temp"]/10 for diction in filtered_data]
+            filtered_temp = [diction["main"]["temp"]-273.15 for diction in filtered_data]
             #get the days only by get_data()
             filtered_days = [diction["dt_txt"] for diction in filtered_data]
             #Create the plot
