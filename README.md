@@ -38,4 +38,4 @@ weather_app/<br />
 
 Christos - xristos.andreopo@gmail.com
 
-Project Link: https://github.com/XristosAndreopo/sudokou-v1.githttps://github.com/your_username/repo_name)
+Project Link: https://github.com/XristosAndreopo/sudokou-v1.git
