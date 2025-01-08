@@ -9,8 +9,8 @@ The app displays the forecast weather for selected days.
 ### Built With
 This project was build with:
 1) Pycharm 
-2) and Streamlit
-3) Build with MVC architecture:
+2) Streamlit
+3) Build with MVC architecture
 
 ###  Model-View-Controller (MVC):
 weather_app/<br />
@@ -25,17 +25,17 @@ weather_app/<br />
 
 ### Installation
 
-1. Connect to https://api.openweathermap.org, sign in, and get the API_KEY and paste it to backend.py
+1. Connect to https://api.openweathermap.org, sign in, and get the API_KEY and paste it to backend.py.
 2. Clone the repo with the
 ```sh
   https://github.com/XristosAndreopo/weather-forecast-data-app1.git
    ```
-4. pip install -r requirements.txt
-3. Run in terminal the following: streamlit run main.py 
+4. pip install -r requirements.txt.
+3. Run in terminal the following: streamlit run main.py. 
 
 <!-- CONTACT -->
 ## Contact Details
 
 Christos - xristos.andreopo@gmail.com
 
-Project Link: https://github.com/XristosAndreopo/sudokou-v1.git
+Project Link: https://github.com/XristosAndreopo/weather-forecast-data-app1.git
